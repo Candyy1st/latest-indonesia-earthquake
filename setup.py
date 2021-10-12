@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="latestearthquake-indonesia",
+    name="latestearthquake-id",
     version="0.1",
     author="Dinda Wahyu Candradewa",
     author_email="candradewa1981@gmail.com",
@@ -17,7 +17,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Candyy1st/latest-indonesia-earthquake",
     project_urls={
-        "Bug Tracker": "https://github.com/Candyy1st/latest-indonesia-earthquake",
+        "Bug Tracker": "https://github.com/Candyy1st/latest-indonesia-earthquake/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
