@@ -17,7 +17,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Candyy1st/latest-indonesia-earthquake",
     project_urls={
-        "Website": "https://remoteworker.id",
+        "Bug Tracker": "https://github.com/Candyy1st/latest-indonesia-earthquake",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
