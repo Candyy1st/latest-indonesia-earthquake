@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="latestearthquake-id",
-    version="0.1",
+    version="0.2",
     author="Dinda Wahyu Candradewa",
     author_email="candradewa1981@gmail.com",
     description="this package will get the latest earthquake from BMKG | Meteorological, Climatological, and Geophysical Agency",
