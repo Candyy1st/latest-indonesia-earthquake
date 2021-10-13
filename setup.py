@@ -8,8 +8,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="latestearthquake-id",
-    version="0.2",
+    name="latestearthquakeID",
+    version="0.3.1",
     author="Dinda Wahyu Candradewa",
     author_email="candradewa1981@gmail.com",
     description="this package will get the latest earthquake from BMKG | Meteorological, Climatological, and Geophysical Agency",
